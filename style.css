@@ -1,0 +1,15 @@
+
+.cabeçario{
+    background-color: brown;
+    color: azure;
+    display: flex;
+    padding: 24px 0;
+}
+
+.section1{
+    background-color: aquamarine;
+}
+
+section2{
+    background-color: aqua;
+}
